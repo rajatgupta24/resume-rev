@@ -1,9 +1,5 @@
-.project
-.classpath
-.idea
-.cache
-.DS_Store
-*.im?
-target
-work
+#IDEs
+vscode/
+
+# binaries
 bin/
